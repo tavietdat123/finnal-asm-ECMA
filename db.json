@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "name": "123",
+      "price": 2,
+      "sale": 0,
+      "rate": 2,
+      "img": "https://scontent.fhan18-1.fna.fbcdn.net/v/t39.30808-6/386734601_1248462812512749_7671781512398539621_n.jpg?stp=dst-jpg_p843x403&_nc_cat=102&ccb=1-7&_nc_sid=4c1e7d&_nc_ohc=AJTktg8vJGwAX_g15Y4&_nc_ht=scontent.fhan18-1.fna&_nc_e2o=s&oh=00_AfD95E7EUCEWgF9p1svPHUf0QXegLcrH4tcJnFwsnzfDLw&oe=652991F0",
+      "available": 2,
+      "description": "rat la oke 123",
+      "type": 2,
+      "id": 9
+    },
+    {
+      "name": "nhan vang",
+      "price": 123,
+      "sale": 10,
+      "rate": 4.5,
+      "img": "https://cdn.pnj.io/images/thumbnails/300/300/detailed/188/sp-gbpf00x000011-bong-tai-vang-14k-dinh-ngoc-trai-freshwater-pnj-1.png",
+      "available": 1234,
+      "description": "dmad as dafk gdg fdgksdfgk fdgkadf adsfkamds asdfkdsmf",
+      "type": 2,
+      "id": 10
+    }
+  ],
+  "category": [
+    {
+      "name": "23123",
+      "id": 2
+    },
+    {
+      "name": "2123123",
+      "id": 3
+    }
+  ],
+  "users": [
+    {
+      "name": "23123",
+      "email": "datxz2003",
+      "password": "123123",
+      "id": 1,
+      "role": 0
+    },
+    {
+      "name": "23123",
+      "email": "datxz2003@",
+      "password": "123123",
+      "id": 1,
+      "role": 1
+    },
+    {
+      "name": "dattaviet",
+      "email": "datxz2003@gmail.com",
+      "password": "123123123123",
+      "role": 0,
+      "id": 2
+    }
+  ]
+}
